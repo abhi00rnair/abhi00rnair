@@ -1,14 +1,6 @@
-<!--<h1 align="center">Hi 👋, I'm ABHAY R NAIR</h1>
-<h3 align="center">A passionate tech enthusiast.</h3>
+<<h1 align="center">Hi 👋, I'm ABHAY R NAIR</h1>
 
 
-- 🔭 I’m currently working on **DSA**
-
-- 🌱 I’m currently learning **flutter**
-
-- 📫 How to reach me **itsmeabhayrnair@gmail.com**
-
-<h3 align="left">Connect with me:</h3>-->
 <p align="left">
 </p>
 
